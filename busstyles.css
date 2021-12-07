@@ -1,0 +1,29 @@
+body { 
+    margin: 0; 
+    padding: 0; }
+
+#map { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%; }
+
+
+.map-overlay{
+      position: absolute;
+      left: 0;
+      padding: 10px;
+  }
+
+  .button{
+    color: darkorange;  
+    font-size: 2.5em;
+    background-color: lightgreen;
+    font-style: oblique;
+    cursor: auto;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+    box-shadow: 5px 6px;
+}
